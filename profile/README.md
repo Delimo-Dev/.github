@@ -1,17 +1,19 @@
-<div align="center">
-  
+
 # ✍️ Delimo, GPT 기반의 감정 분석 앱서비스 개발 프로젝트
 
-  
 ## 🏫  2023 SW Castone Design Project & Graduate Project for SW/AI Festival  
-기획 및 스터디 기간 : 2022.09 ~ 2023.04 <br>
-개발기간 : 2023.04 ~ 2023.11 <br>
-학술제 발표 및 졸업 작품 전시 : 2023.11.13 ~ 2023.11.14 <br>
+> 기획 및 스터디 기간 : 2022.09 ~ 2023.04 <br>
+> 개발기간 : 2023.04 ~ 2023.11 <br>
+> 학술제 발표 및 졸업 작품 전시 : 2023.11.13 ~ 2023.11.14 <br>
+
 <br>
 
 
+<div align="center">
+  
 ## 🫂 Who developed?
 
+  
 ### ✔️ PM, Back-end Developer : [이예빈](https://github.com/yebinleee) 
 Java, Spring Boot, JPA, MySQL, AWS Cloud 
 ### ✔️ Front-end Developer : [김정은](https://github.com/huruna) 
@@ -19,8 +21,12 @@ JavaScript, React Native, Android Studio)
 ### ✔️ Front-end Developer : [이동희](https://github.com/Haru-arp) 
 JavaScript, React Native, Android Studio <br>
 
+</div>
+
 <br>
 
+<div align="center">
+  
 ## 🧰 Tech Stacks 
 ### Front-end
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,6 +46,8 @@ JavaScript, React Native, Android Studio <br>
 ### 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+</div>
 
 <br>
 
