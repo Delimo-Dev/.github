@@ -3,7 +3,7 @@
 
 ## 🏫  2023 SW Castone Design Project & Graduate Project for SW/AI Festival  
 > 기획 및 스터디 기간 : 2022.09 ~ 2023.04 <br>
-> 개발기간 : 2023.04 ~ 2023.11 <br>
+> 개발기간 : 2022.11 ~ 2023.11 <br>
 > 학술제 발표 및 졸업 작품 전시 : 2023.11.13 ~ 2023.11.14 <br>
 
 <br>
