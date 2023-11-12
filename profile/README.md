@@ -1,5 +1,5 @@
 
-# ✍️ Delimo, GPT 기반의 감정 분석 앱서비스 개발 프로젝트
+# ✍️ Delimo, GPT 기반의 감정 분석 일기장 서비스 개발 프로젝트
 
 ## 🏫  2023 SW Castone Design Project & Graduate Project for SW/AI Festival  
 > 기획 및 스터디 기간 : 2022.09 ~ 2023.04 <br>
