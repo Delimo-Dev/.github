@@ -890,7 +890,7 @@ POST /community/diaries/{diary_id}/comment
 
 
 # 🤙 서비스 소개
-## 밢표 자료 
+## 발표 자료 
 
 ![CSE-48 JY 본선 발표-01](https://github.com/Delimo-Dev/Delimo-server/assets/71310074/88742b99-fada-40b7-b196-fecc821d8b3b)
 ![CSE-48 JY 본선 발표-02](https://github.com/Delimo-Dev/Delimo-server/assets/71310074/93727191-3feb-42fc-b9c1-e322bdf4c80e)
